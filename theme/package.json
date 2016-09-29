@@ -1,0 +1,43 @@
+{
+  "name": "t3countdown",
+  "version": "1.0.0",
+  "description": "Template for TechTalkThursday Countdown",
+  "main": "gulpfile.js",
+  "repository": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonid Lezner",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "browser-sync": "*",
+    "gulp-clean-css": "*",
+    "gulp-plumber": "*",
+    "gulp-postcss": "*",
+    "gulp-stylus": "*",
+    "lost": "*",
+    "lost": "*",
+    "nib": "*",
+    "plumber": "*",
+    "postcss": "*",
+    "stylus": "*",
+    "vinyl-ftp": "*",
+    "typographic": "*",
+    "poststylus": "*",
+    "del": "*",
+    "gulp-debug": "*",
+    "gulp-ignore": "*",
+    "stylus-normalize": "*",
+    "gulp-concat-vendor": "*",
+    "run-sequence": "*",
+    "gulp-changed": "*",
+    "gulp-imagemin": "*",
+    "gulp-favicons": "*",
+    "gulp-rimraf": "*",
+    "gulp-include": "*"
+  }
+}
